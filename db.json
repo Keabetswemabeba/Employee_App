@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "name": "Moses Mafikwe",
+      "email": "moses@gmail.com",
+      "phone": "0783878778",
+      "position": "Frontend Developer",
+      "image": "blob:http://localhost:3000/c8a3a975-33f5-43f4-8fdf-bd91969ad71b",
+      "id": 1
+    },
+    {
+      "name": "Thabo Lesole",
+      "email": "thabo@gmail.com",
+      "phone": "0711775534",
+      "position": "Backend Developer",
+      "image": "blob:http://localhost:3000/75b0f30d-6bc6-481d-9524-07eb1f10c228",
+      "id": 2
+    },
+    {
+      "name": "Jaka Ledwaba",
+      "email": "jledwaba@gmail.com",
+      "phone": "0721371977",
+      "position": "Full Stack",
+      "image": "blob:http://localhost:3000/f4d9850d-f36d-48e6-84de-5b9aa8f0284b",
+      "id": 3
+    }
+  ]
+}
